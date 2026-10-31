@@ -26,17 +26,20 @@
 
 ## Usage
 
-### 1. File Placement
+### 1. Downloading
+Download the repo or clone it using `git clone https://github.com/offp001/exe_to_disassembly.git`
+
+### 2. File Placement
 Place your target `.exe` file in the same directory as `decompile.py`.
 
-### 2. Execution
+### 3. Execution
 Run the script using your Python environment:
 
 ```bash
 python3 decompile.py
 ```
 
-### 3. User Input
+### 4. User Input
 When prompted, enter the file name **without** its `.exe` extension:
 
 ```text
