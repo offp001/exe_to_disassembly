@@ -14,7 +14,7 @@
 
 ## Overview
 
-**exe_to_disassembly** automates the process of extracting contents from PyInstaller-compiled `.exe` files and disassembling the raw bytecode into readable `.pyasm` and structured text format. 
+**exe_to_disassembly** decompiles (converts) PyInstaller-compiled `.exe` files and disassembling the raw bytecode into readable `.pyasm` and structured text format. 
 
 ---
 
