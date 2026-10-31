@@ -1,5 +1,5 @@
 <h1 align="center">
-  Windows executable (.exe) to Disassembly
+  Windows executable (.exe) to Disassembly (Linux)
 </h1>
 
 <h3 align="center">PyInstaller Exe (3.14 and 3.15) to Disassembly</h3>
