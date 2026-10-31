@@ -1,0 +1,10 @@
+/home/offp/İndirilenler/decompiler/pycdc/build/CMakeFiles/pycxx.dir
+/home/offp/İndirilenler/decompiler/pycdc/build/CMakeFiles/pycdas.dir
+/home/offp/İndirilenler/decompiler/pycdc/build/CMakeFiles/pycdc.dir
+/home/offp/İndirilenler/decompiler/pycdc/build/CMakeFiles/check.dir
+/home/offp/İndirilenler/decompiler/pycdc/build/CMakeFiles/edit_cache.dir
+/home/offp/İndirilenler/decompiler/pycdc/build/CMakeFiles/rebuild_cache.dir
+/home/offp/İndirilenler/decompiler/pycdc/build/CMakeFiles/list_install_components.dir
+/home/offp/İndirilenler/decompiler/pycdc/build/CMakeFiles/install.dir
+/home/offp/İndirilenler/decompiler/pycdc/build/CMakeFiles/install/local.dir
+/home/offp/İndirilenler/decompiler/pycdc/build/CMakeFiles/install/strip.dir

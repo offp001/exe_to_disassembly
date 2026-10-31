@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Wextra -Wno-error=shadow -Werror  -Wl,--dependency-file=CMakeFiles/pycdas.dir/link.d CMakeFiles/pycdas.dir/pycdas.cpp.o -o pycdas  libpycxx.a

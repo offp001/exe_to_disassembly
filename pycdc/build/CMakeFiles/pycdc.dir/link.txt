@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Wextra -Wno-error=shadow -Werror  -Wl,--dependency-file=CMakeFiles/pycdc.dir/link.d CMakeFiles/pycdc.dir/pycdc.cpp.o CMakeFiles/pycdc.dir/ASTree.cpp.o CMakeFiles/pycdc.dir/ASTNode.cpp.o -o pycdc  libpycxx.a
