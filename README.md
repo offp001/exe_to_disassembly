@@ -60,9 +60,8 @@ Once the conversion completes, an extraction folder named `<target_name>.exe_ext
 
 * **`all_functions_disasm.txt`**: Serves as the primary reference document during analysis. Every function is separated by a clear header detailing the original file name, function name, and starting line number:
   ```text
-  ======================================================================
-  file: main.pyc | function: calculate_hash | line: 42
-  ======================================================================
+  source: file.pyc
+  ------------------------------------------------------
   # Disassembly code appears here
   ```
 * **`.pyasm` Files**: Contain full disassemblies of individual compiled Python modules for targeted inspection.
